@@ -1,0 +1,17 @@
+{
+  "name": "com.vaiv.creator.core",
+  "version": "1.0.3",
+  "displayName": "Vaiv Creator Core System",
+  "description": "Vaiv Creator Core System",
+  "keywords": [
+    "SDK",
+    "VAIV",
+    "Metaverse"
+  ],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "hideInEditor": true
+}

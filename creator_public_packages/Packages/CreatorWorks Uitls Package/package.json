@@ -1,0 +1,16 @@
+{
+  "name": "com.vaiv.creator.utils",
+  "version": "1.0.1",
+  "displayName": "Vaiv Creator Utils",
+  "description": "Vaiv Creator Utils",
+  "keywords": [
+    "SDK",
+    "VAIV",
+    "Metaverse"
+  ],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  }
+}

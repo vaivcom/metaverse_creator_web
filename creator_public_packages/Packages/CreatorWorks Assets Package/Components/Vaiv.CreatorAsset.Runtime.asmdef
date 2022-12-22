@@ -1,0 +1,16 @@
+{
+    "name": "Vaiv.CreatorAsset.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:18ab055dc24f54709890cac92348bf17"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

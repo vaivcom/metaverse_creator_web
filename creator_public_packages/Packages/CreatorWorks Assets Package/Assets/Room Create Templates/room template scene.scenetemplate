@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: room template scene
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 38c0091aa32114d4d8fdd5865835a77c, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 102900000, guid: 505f5590783a9fa438971505d19d1085, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8900000, guid: 0b61a85502a889d4da5888e5bed755bd, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: df9d0c6fdf33b0341b0af5e2b1adec35, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 54e32340aa3a2bb48be5b2f9c1cc8848, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 7e7ded07cfafead4684e16af3dc76028, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 112000000, guid: 9a5e7cae4d70e664ea30c5cbc6db34ba, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0

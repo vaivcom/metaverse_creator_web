@@ -1,0 +1,20 @@
+{
+    "name": "Vaiv.CreatorAsset.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b27767f3cf2bb487897ff4a8d1bc3811",
+        "GUID:18ab055dc24f54709890cac92348bf17",
+        "GUID:8e96bfe1cba4545db830919842dd0fe9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
